@@ -42,8 +42,8 @@
 
 ### <div align="center" >  Blog, SNS </div>
 <div align="center">
-<a href="https://medium.com/https://velog.io/@jumpx2" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://velog.io/@jumpx2" target="_blank">
+<img src=https://img.shields.io/badge/velog-%23292929.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
 </a>  
 
 <a href="https://instagram.com/https://www.instagram.com/uchee0/?hl=ko" target="_blank">
